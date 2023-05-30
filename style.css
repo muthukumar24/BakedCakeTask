@@ -1,0 +1,705 @@
+/* Section One */
+@font-face {
+    font-family: "Montserrat";
+    src: url(Montserrat-Regular-1.ttf);
+}
+.sectionone{
+    height: 900px;
+    width: auto;
+    background-image: url(fresh\ baked\ img-1.jpg);
+    background-size:cover ;
+    background-position: center;
+}
+.header{
+    height: 400px;
+    width: 700px;
+    /* border: solid; */
+    display: inline-block;
+    position: relative;
+    left: 650px;
+    top: 100px;
+}
+.familybakery{
+    text-transform: uppercase;
+    font-family: "Montserrat",sans-serif;
+    font-size: 30px;
+    font-weight: 200px;
+    letter-spacing: 12px;
+    position: relative;
+    top: 40px;
+}
+.organicbread{
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 90px;
+    font-weight: 400px;
+    line-height: 100px;
+}
+.freepikimage{
+    text-transform: uppercase;
+    font-family: "Montserrat",sans-serif;
+    font-size: 15px;
+    font-weight: 200px;
+    letter-spacing: 3px;
+    position: relative;
+    bottom: 50px;
+}
+.imagelink{
+    color: black;
+}
+.Details{
+    height: 200px;
+    width: 690px;
+    /* border: solid; */
+    position: relative;
+    left: 650px;
+    top: 150px;
+}
+.findusarea{
+    height: 195px;
+    width: 220px;
+    /* border: solid; */
+    display: inline-block;
+    position: relative;
+    bottom: 60px;
+}
+.findustext{
+    text-transform: uppercase;
+    font-family: "Montserrat",sans-serif;
+    font-size: 18px;
+    font-weight: 700px;
+    letter-spacing: 1px;
+}
+.address{
+    font-family: 'Open Sans',sans-serif;
+    font-size: 17px;
+    font-weight: 200px;
+    line-height: 30px;
+}
+.hoursarea{
+    height: 195px;
+    width: 220px;
+    /* border: solid; */
+    display: inline-block;
+}
+.hourtext{
+    text-transform: uppercase;
+    font-family: "Montserrat",sans-serif;
+    font-size: 18px;
+    font-weight: 700px;
+    letter-spacing: 1px;
+}
+.workinghours{
+    font-family: 'Open Sans',sans-serif;
+    font-size: 18px;
+    line-height: 30px;
+}
+.callusarea{
+    height: 195px;
+    width: 220px;
+    /* border: solid; */
+    display: inline-block;
+    position: relative;
+    bottom: 30px;
+}
+.callustext{
+    text-transform: uppercase;
+    font-family: "Montserrat",sans-serif;
+    font-size: 18px;
+    font-weight: 700px;
+    letter-spacing: 1px;
+}
+.contactnumbers{
+    font-family: 'Open Sans',sans-serif;
+    font-size: 18px;
+    line-height: 50px;
+}
+/* Section Two */
+.sectiontwo{
+    height: 650px;
+    width: auto;
+    /* border: solid; */
+}
+.deliciousbakingarea
+{
+    height: 640px;
+    width: 1030px;
+    /* border: solid; */
+    margin: auto;
+}
+.headercontenet{
+    height: 100px;
+    width: 1000px;
+    /* border: solid  yellowgreen; */
+    text-align: center;
+    font-size: 35px;
+    font-family: "Montserrat",sans-serif;
+    padding: 10px;
+}
+.contentarea{ 
+    height: 510px;
+    width: 1020px;
+    /* border: solid; */
+    display: inline-block;
+    margin: auto;
+}
+/* subsection one */
+.bakefreshdaily{ 
+    height: 210px;
+    width: 320px;
+    /* border: solid; */
+    display: inline-block;
+}
+.imageone{
+    height: 70px;
+    width: 70px;
+}
+.bakefreshdailycontent{
+    height: 200px;
+    width:  240px;
+    /* border: solid; */
+    position: relative;
+    left: 75px;
+    bottom: 70px;
+}
+.bakedfreshdailytext{
+    font-size: large;
+    font-family: "Montserrat",sans-serif;
+}
+.textcontentone{
+    font-size: medium;
+    font-family: "Montserrat",sans-serif;
+}
+/* subsection two */
+.greatvalue{
+    height: 210px;
+    width: 320px;
+    /* border: solid; */
+    display: inline-block;
+}
+.imagetwo{
+    height: 70px;
+    width: 70px;
+}
+.greatvaluecontent{
+    height: 200px;
+    width:  240px;
+    /* border: solid; */
+    position: relative;
+    left: 75px;
+    bottom: 70px;
+}
+.greatvaluetext{
+    font-size: large;
+    font-family: "Montserrat",sans-serif;
+}
+.textcontenttwo{
+    font-size: medium;
+    font-family: "Montserrat",sans-serif;
+}
+/* subsection three */
+.institution{
+    height: 210px;
+    width: 320px;
+    /* border: solid; */
+    display: inline-block;
+}
+.imagethree{
+    height: 70px;
+    width: 70px;
+}
+.instituioncontent{
+    height: 200px;
+    width:  240px;
+    /* border: solid; */
+    position: relative;
+    left: 75px;
+    bottom: 70px;
+}
+.institutiontext{
+    font-size: large;
+    font-family: "Montserrat",sans-serif;
+}
+.textcontentthree{
+    font-size: medium;
+    font-family: "Montserrat",sans-serif;
+}
+/* subsection four */
+.delivery{ 
+    height: 210px;
+    width: 320px;
+    /* border: solid; */
+    display: inline-block;
+    position: relative;
+    bottom: 19px;
+}
+.imagefour{
+    height: 70px;
+    width: 70px;
+}
+.deliverycontent{
+    height: 200px;
+    width:  240px;
+    /* border: solid; */
+    position: relative;
+    left: 75px;
+    bottom: 70px;
+}
+.deliverytext{
+    font-size: large;
+    font-family: "Montserrat",sans-serif;
+}
+.textcontentfour{
+    font-size: medium;
+    font-family: "Montserrat",sans-serif;
+}
+/* subscetion five */
+.noordertoolarge{ 
+    height: 210px;
+    width: 320px;
+    /* border: solid; */
+    display: inline-block;
+}
+.imagefive{
+    height: 70px;
+    width: 70px;
+}
+.noordercontent{
+    height: 200px;
+    width:  240px;
+    /* border: solid; */
+    position: relative;
+    left: 75px;
+    bottom: 70px;
+}
+.noordertext{
+    font-size: large;
+    font-family: "Montserrat",sans-serif;
+}
+.textcontentfive{
+    font-size: medium;
+    font-family: "Montserrat",sans-serif;
+}
+/* subsection six */
+.deliciousbaking{ 
+    height: 210px;
+    width: 320px;
+    /* border: solid; */
+    display: inline-block;
+}
+.imagesix{
+    height: 70px;
+    width: 70px;
+}
+.deliciousbakingcontent{
+    height: 200px;
+    width:  240px;
+    /* border: solid; */
+    position: relative;
+    left: 75px;
+    bottom: 70px;
+}
+.delicioustext{
+    font-size: large;
+    font-family: "Montserrat",sans-serif;
+}
+.textcontentsix{
+    font-size: medium;
+    font-family: "Montserrat",sans-serif;
+}
+/* Section Three */
+.sectionthree{
+    height: 650px;
+    width: auto;
+    /* border: solid; */
+    background-color: black;
+   
+}
+.bakedbreadimg{ 
+    height: 650px;
+    width: 750px;
+    /* border: solid blanchedalmond; */
+    display: inline-block;
+}
+.breadimgtwo{
+    height: 650px;
+    width: 750px;
+}
+.textcontent{
+    height: 645px;
+    width: 600px;
+    /* border: solid greenyellow; */
+    display: inline-block;
+    position: relative;
+    bottom: 130px;
+}
+.textcontentarea{
+    height: 580px;
+    width: 430px;
+    /* border: solid green; */
+    margin: auto;
+    margin-top: 30px;
+}
+.headertext{
+    font-size: 60px;
+    line-height: 60px;
+    font-weight: 700px;
+    font-family: "Montserrat",sans-serif;
+    color: white;
+}
+.paragraphtext{
+    font-family: 'Open Sans',sans-serif;
+    font-size: medium;
+    color: white;
+}
+.freepiktext{
+    font-family: 'Open Sans',sans-serif;
+    font-size: medium;
+    color: white;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+.freepiklink{
+    color: white;
+}
+.nicepagelink{
+    font-family: 'Open Sans',sans-serif;
+    font-size: medium;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-decoration: none;
+    border-style: solid;
+    border-radius: 30px;
+    border-color: white;
+    padding: 20px 30px 20px 30px;
+}
+.nicepagelink:hover{
+    background-color: white;
+    color: black;
+}
+/* Section Four */
+.sectionfour{
+    height: 1300px;
+    width: auto;
+    /* border: solid; */
+    background-color: whitesmoke;
+}
+.ourbreadcontentare{
+    height: 1290px;
+    width: 1120px;
+    /* border: solid green; */
+    margin: auto;
+}
+.ourbreadtextarea{
+    height: 160px;
+    width: 1110px;
+    /* border: solid; */
+    margin:auto;
+}
+.ourbreadtext{
+    font-size: 60px;
+    font-weight: 700px;
+    font-family: "Montserrat",sans-serif;
+    text-align: center;
+    /* margin-top: 40px; */
+}
+.breadtypes{
+    height: 950px;
+    width: 1110px;
+    /* border: solid red; */
+    margin: auto;
+}
+/* white bread */
+.breadtype1{
+    height: 450px;
+    width: 250px;
+    display: inline-block;
+    border-radius: 30px;
+    box-sizing: border-box;
+    background-color: white;
+}
+.whitebread{
+    height: 390px;
+    width: 200px;
+    /* border: solid; */
+    margin: 20px 10px 10px 22px;
+}
+.whitebreadimg{
+    height: 170px;
+    width: 200px ;
+    border-radius: 20px;
+}
+.whitebreadtext{
+    text-transform: uppercase;
+    font-family: 'Open Sans',sans-serif;
+    font-size: larger;
+    text-align: center;
+    letter-spacing: 2px;
+}
+.whitebreaddescription{
+    font-family: 'Open Sans',sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+.referencelinkone{
+    color: black;
+    font-family: 'Open Sans',sans-serif ;
+    margin-left: 80px;
+}
+/* Farming Bread */
+.breadtype2{
+    height: 450px;
+    width: 250px;
+    display: inline-block;
+    border-radius: 30px;
+    box-sizing: border-box;
+    background-color: white;
+    position: relative;
+    left: 30px;
+}
+.farmingbread{
+    height: 390px;
+    width: 200px;
+    /* border: solid; */
+    margin: 20px 10px 10px 22px;
+}
+.farmingbread1img{
+    height: 170px;
+    width: 200px ;
+    border-radius: 20px;
+}
+.farmingbreadtext{
+    text-transform: uppercase;
+    font-family: 'Open Sans',sans-serif;
+    font-size: larger;
+    text-align: center;
+    letter-spacing: 2px;
+}
+.farmingbreaddescription{
+    font-family: 'Open Sans',sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+/* Loaf bread */
+.breadtype3{
+    height: 450px;
+    width: 250px;
+    display: inline-block;
+    border-radius: 30px;
+    box-sizing: border-box;
+    background-color: white;
+    position: relative;
+    left: 60px
+}
+.loafbread{
+    height: 390px;
+    width: 200px;
+    /* border: solid; */
+    margin: 20px 10px 10px 22px;
+}
+.loafbreadimg{
+    height: 170px;
+    width: 200px ;
+    border-radius: 20px;
+}
+.loafbreadtext{
+    text-transform: uppercase;
+    font-family: 'Open Sans',sans-serif;
+    font-size: larger;
+    text-align: center;
+    letter-spacing: 2px;
+}
+.loafbreaddescription{
+    font-family: 'Open Sans',sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+/* Sourdough bread */
+.breadtype4{
+    height: 450px;
+    width: 250px;
+    display: inline-block;
+    border-radius: 30px;
+    box-sizing: border-box;
+    background-color: white;
+    position: relative;
+    left: 90px;
+}
+.Sourdough{
+    height: 390px;
+    width: 200px;
+    /* border: solid; */
+    margin: 20px 10px 10px 22px;
+}
+.sourdoughbreadimg{
+    height: 170px;
+    width: 200px ;
+    border-radius: 20px;
+}
+.Sourdoughtext{
+    text-transform: uppercase;
+    font-family: 'Open Sans',sans-serif;
+    font-size: larger;
+    text-align: center;
+    letter-spacing: 2px;
+}
+.Sourdoughdescription{
+    font-family: 'Open Sans',sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+/* Olive bread */
+.breadtype5{
+    height: 450px;
+    width: 250px;
+    display: inline-block;
+    border-radius: 30px;
+    box-sizing: border-box;
+    background-color: white;
+    position: relative;
+    top: 30px;
+}
+.olivebread{
+    height: 390px;
+    width: 200px;
+    /* border: solid; */
+    margin: 20px 10px 10px 22px;
+}
+.olivebreadimg{
+    height: 170px;
+    width: 200px ;
+    border-radius: 20px;
+}
+.oliveBreadtext{
+    text-transform: uppercase;
+    font-family: 'Open Sans',sans-serif;
+    font-size: larger;
+    text-align: center;
+    letter-spacing: 2px;
+}
+.olivebreaddescription{
+    font-family: 'Open Sans',sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+/* whole grain bread */
+.breadtype6{
+    height: 450px;
+    width: 250px;
+    display: inline-block;
+    border-radius: 30px;
+    box-sizing: border-box;
+    background-color: white;
+    position: relative;
+    top: 32px;
+    left: 30px;
+}
+.wholegrainbread{
+    height: 390px;
+    width: 200px;
+    /* border: solid; */
+    margin: 20px 10px 10px 22px;
+}
+.wholegrainbreadimg{
+    height: 170px;
+    width: 200px ;
+    border-radius: 25px;
+}
+.wholegrainbreadtext{
+    text-transform: uppercase;
+    font-family: 'Open Sans',sans-serif;
+    font-size: larger;
+    text-align: center;
+    letter-spacing: 2px;
+}
+.wholegrainbreaddescription{
+    font-family: 'Open Sans',sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+/* Farming bread two */
+.breadtype7{
+    height: 450px;
+    width: 250px;
+    display: inline-block;
+    border-radius: 30px;
+    box-sizing: border-box;
+    background-color: white;
+    position: relative;
+    top: 30px;
+    left: 60px;
+}
+.farmingbreadtwo{
+    height: 390px;
+    width: 200px;
+    /* border: solid; */
+    margin: 20px 10px 10px 22px;
+}
+.farmingbreadtwoimg{
+    height: 170px;
+    width: 200px ;
+    border-radius: 20px;
+}
+.farmingbreadtwotext{
+    text-transform: uppercase;
+    font-family: 'Open Sans',sans-serif;
+    font-size: larger;
+    text-align: center;
+    letter-spacing: 2px;
+}
+.farmingbreadtwodescription{
+    font-family: 'Open Sans',sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+/* Baguette bread */
+.breadtype8{
+    height: 450px;
+    width: 250px;
+    display: inline-block;
+    border-radius: 30px;
+    box-sizing: border-box;
+    background-color: white;
+    position: relative;
+    top: 30px;
+    left: 90px;
+}
+.baguettebread{
+    height: 390px;
+    width: 200px;
+    /* border: solid; */
+    margin: 20px 10px 10px 22px;
+}
+.Baguettebreadimg{
+    height: 170px;
+    width: 200px ;
+    border-radius: 20px;
+}
+.Baguettebreadtext{
+    text-transform: uppercase;
+    font-family: 'Open Sans',sans-serif;
+    font-size: larger;
+    text-align: center;
+    letter-spacing: 2px;
+}
+.Baguettebreaddescription{
+    font-family: 'Open Sans',sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+.freepikref{
+    height: 160px;
+    width: 1110px;  
+    /* border: solid peru; */
+    margin: auto;
+    text-align: center;
+}
+.freepik{
+    font-family: 'Open Sans',sans-serif;
+    font-size: larger;
+    margin-top: 50px;
+}
+.linkfreepik{
+    color: black;
+}
